@@ -1,4 +1,4 @@
-Which process document do you want to update? (If this is a new document, select '')
+
 Summary of New Content
 Add a centralized README file in the docs folder that serves as a clear entry point to all OctoAcme project management documentation. This README should:
 
