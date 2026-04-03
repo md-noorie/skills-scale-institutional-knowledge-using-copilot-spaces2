@@ -1,0 +1,32 @@
+
+Which process document do you want to update? (If this is a new document, select '')
+Summary of New Content
+Propose adding several new personas and roles to the Project Management Processes documentation. This update will expand the current list in docs/octoacme-roles-and-personas.md to include additional roles such as Business Analyst, UX Designer, DevOps Engineer, Security Lead, and QA Lead. Each role will have a clear definition of responsibilities and how it interacts with existing roles.
+
+Why is this update needed?
+The current set of roles and personas focuses primarily on Product, Project, and Development but does not explicitly define or clarify the responsibilities of other essential contributors in modern cross-functional teams. As projects become more complex and require greater collaboration and transparency, having clear definitions for each contributing role is critical. Expanding the documented personas will remove ambiguity, support clear accountability, facilitate onboarding, and ensure everyone understands how to engage with the process.
+
+Suggested Content (optional)
+Potential New Roles/Personas
+Business Analyst
+Responsibilities: Gather and clarify requirements, bridge communication between business and technical teams, support backlog refinement.
+Interactions: Works closely with Product Manager, Developers, and Stakeholders to ensure requirements are understood and feasible.
+UX Designer
+Responsibilities: Design user interfaces and experiences, run user testing, ensure usability and accessibility standards.
+Interactions: Partners with Product Manager, Developers, and QA to validate solutions meet user needs.
+DevOps Engineer
+Responsibilities: Own CI/CD pipelines, monitor deployments, maintain infrastructure as code, ensure reliable delivery.
+Interactions: Collaborates with Developers and QA to optimize release process and incident response.
+Security Lead
+Responsibilities: Identify, document, and mitigate security risks, review architectures, conduct threat modeling and security testing.
+Interactions: Partners with Developers and Project Manager in risk management, supports compliance and incident response.
+QA Lead
+Responsibilities: Define testing strategy, coordinate manual and automated tests, verify acceptance criteria.
+Interactions: Works with Developers, Product Manager, and DevOps Engineer to drive quality throughout the lifecycle.
+Acceptance Criteria
+
+Content aligns with existing process docs
+
+Update improves clarity or closes a documented gap
+
+Proposed content has been reviewed with stakeholders (if needed)
